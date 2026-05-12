@@ -1,0 +1,52 @@
+conf_id,ConfAbbrev,Description
+1,A_SUN,Atlantic Sun Conference
+2,A_TEN,Atlantic 10 Conference
+3,AAC,American Athletic Conference
+4,ACC,Atlantic Coast Conference
+5,AEC,America East Conference
+6,ASC,American South Conference
+7,AWC,American West Conference
+8,BIG_EAST,Big East Conference
+9,BIG_EIGHT,Big Eight Conference
+10,BIG_SKY,Big Sky Conference
+11,BIG_SOUTH,Big South Conference
+12,BIG_TEN,Big Ten Conference
+13,BIG_TWELVE,Big 12 Conference
+14,BIG_WEST,Big West Conference
+15,CAA,Coastal Athletic Association
+16,CUSA,Conference USA
+17,ECACM,Eastern Collegiate Athletic Conference Metro
+18,ECACN,Eastern Collegiate Athletic Conference North
+19,ECACS,Eastern Collegiate Athletic Conference South
+20,ECC,East Coast Conference
+21,GMWC,Great Midwest Conference
+22,GSC,Gulf Star Conference
+23,GWC,Great West Conference
+24,HORIZON,Horizon League
+25,IND,Independent
+26,IVY,Ivy League
+27,MAAC,Metro Atlantic Athletic Conference
+28,MAC,Mid-American Conference
+29,MEAC,Mid-Eastern Athletic Conference
+30,METRO,Metropolitan Collegiate Athletic Conference
+31,MID_CONT,Mid-Continent Conference
+32,MVC,Missouri Valley Conference
+33,MW_CITY,Midwestern City Conference
+34,MW_COLL,Midwestern Collegiate Conference
+35,MWC,Mountain West Conference
+36,NAC,North Atlantic Conference
+37,NEC,Northeast Conference
+38,OVC,Ohio Valley Conference
+39,PAC_TEN,Pacific-10 Conference
+40,PAC_TWELVE,Pacific-12 Conference
+41,PATRIOT,Patriot League
+42,PCAA,Pacific Coast Athletic Association
+43,SEC,Southeastern Conference
+44,SOUTHERN,Southern Conference
+45,SOUTHLAND,Southland Conference
+46,SUMMIT,Summit League
+47,SUN_BELT,Sun Belt Conference
+48,SWAC,Southwest Athletic Conference
+49,SWC,Southwest Conference
+50,WAC,Western Athletic Conference
+51,WCC,West Coast Conference
