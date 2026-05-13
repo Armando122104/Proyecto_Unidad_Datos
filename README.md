@@ -17,4 +17,8 @@ Análisis histórico de "Upsets" (victorias de no favoritos).
 Monitoreo comparativo: Salud de la temporada regular vs. desempeño en eliminatorias.
 
 📊 Conclusiones del Estudio
-Valor Académico: El proyecto integra el ciclo de vida completo del dato, desde el procesamiento técnico en Python hasta la comunicación visual de resultados en Power BI.
+Eficacia Predictiva: El modelo alcanzó una precisión (Accuracy) del 73.51%, demostrando que la arquitectura de datos y el sistema de Rating Elo capturan con éxito la fuerza real de los equipos por encima del azar.
+
+Optimización de Riesgo: Con un Log Loss de 0.5171, se validó que las probabilidades están bien calibradas. El modelo no solo identifica ganadores, sino que cuantifica correctamente la incertidumbre de cada encuentro.
+
+Integración de Datos (U3): El éxito de las métricas confirma que la normalización de tablas (Coaches, Conferencias y Regiones) y su unión con datos históricos de Kaggle fue técnicamente sólida y libre de errores de integridad.
