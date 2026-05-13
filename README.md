@@ -18,7 +18,7 @@ Monitoreo comparativo: Salud de la temporada regular vs. desempeño en eliminato
 
 📊 Conclusiones del Estudio<br>
 Eficacia Predictiva: El modelo alcanzó una precisión (Accuracy) del 73.51%, demostrando que la arquitectura de datos y el sistema de Rating Elo capturan con éxito la fuerza real de los equipos por encima del azar.
-<br>
+<br><br>
 Optimización de Riesgo: Con un Log Loss de 0.5171, se validó que las probabilidades están bien calibradas. El modelo no solo identifica ganadores, sino que cuantifica correctamente la incertidumbre de cada encuentro.
-<br>
+<br><br>
 Integración de Datos (U3): El éxito de las métricas confirma que la normalización de tablas (Coaches, Conferencias y Regiones) y su unión con datos históricos de Kaggle fue técnicamente sólida y libre de errores de integridad.
