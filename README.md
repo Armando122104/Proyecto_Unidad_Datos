@@ -15,12 +15,12 @@ A diferencia de un análisis puramente técnico, se integró Power BI para tradu
 Visualización de probabilidades de avance por ronda.
 Análisis histórico de "Upsets" (victorias de no favoritos).
 Monitoreo comparativo: Salud de la temporada regular vs. desempeño en eliminatorias.
+<br>
 
-<br><br>
 📚 Herramienta para la gestion de trabajo: <br>
 Para una gestion y distribucion optima de la carga de trabajo se implemento el uso de la siguiente herramienta para la gestion de tareas en el equipo de trabajo: <br>
 https://queretaro-team-sm6fizxi.atlassian.net/jira/software/projects/KAN/list?jql=project%20%3D%20KAN%20ORDER%20BY%20cf%5B10019%5D%20ASC
-<br>
+<br><br>
 📊 Conclusiones del Estudio<br>
 Eficacia Predictiva: El modelo alcanzó una precisión (Accuracy) del 73.51%, demostrando que la arquitectura de datos y el sistema de Rating Elo capturan con éxito la fuerza real de los equipos por encima del azar.
 <br><br>
